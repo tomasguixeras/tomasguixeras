@@ -1,7 +1,7 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
 <h1 align="center">Hi 👋, I'm Tomás Bohn Guixeras</h1>
 
-<img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Screen%20Shot%202022-04-08%20at%2000.37.07.png" width="700px" atl="About me"/>
+<img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Screen%20Shot%202022-04-08%20at%2000.37.07.png" width="700px" align="center" atl="About me"/>
 <!--
 **TomasBohnGs/TomasBohnGs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

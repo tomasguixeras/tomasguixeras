@@ -1,5 +1,6 @@
-<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
-<h1 align="center">Hi 👋, I'm Tomás Bohn Guixeras</h1>
+<img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Tomas%20GIF.gif" atl="hello world" style="border-radius:50%"/>
+<!-- <h1 align="center">Hi 👋, I'm Tomás Bohn Guixeras</h1> -->
+Hello! Let me introduce myself. I'm a FullStack Developer whose searching for his fist job opportunity on the area. My education and working experiences form me as proactive, responsable and lifelong learning person.
 
 <p align="center">
 <img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Screen%20Shot%202022-04-08%20at%2000.37.07.png" width="700px" style="border-radius:50%" atl="About me"/>

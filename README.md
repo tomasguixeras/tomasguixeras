@@ -1,7 +1,11 @@
 <img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Tomas%20GIF.gif" atl="hello world" style="border-radius:50%"/>
 <!-- <h1 align="center">Hi 👋, I'm Tomás Bohn Guixeras</h1> -->
-Hello! Let me introduce myself. I'm a FullStack Developer whose searching for his fist job opportunity on the area. My education and working experiences form me as proactive, responsable and lifelong learning person.
 
+<p align="center">
+Hello! Let me introduce myself. I'm a FullStack Developer whose searching for his fist job opportunity on the area.
+<br>
+My education and working experiences form me as proactive, responsable and lifelong learning person.
+</p>
 <p align="center">
 <img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/AboutMe.png" width="700px" style="border-radius:50%" atl="About me"/>
 </p>

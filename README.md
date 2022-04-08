@@ -3,7 +3,7 @@
 Hello! Let me introduce myself. I'm a FullStack Developer whose searching for his fist job opportunity on the area. My education and working experiences form me as proactive, responsable and lifelong learning person.
 
 <p align="center">
-<img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/Screen%20Shot%202022-04-08%20at%2000.37.07.png" width="700px" style="border-radius:50%" atl="About me"/>
+<img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/AboutMe.png" width="700px" style="border-radius:50%" atl="About me"/>
 </p>
 <!--
 **TomasBohnGs/TomasBohnGs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

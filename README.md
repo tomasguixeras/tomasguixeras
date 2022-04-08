@@ -6,7 +6,10 @@
 
 <p align="center">
 <img src="https://github.com/TomasBohnGs/TomasBohnGs/blob/main/AboutMe.png" width="700px" style="border-radius:50%" atl="About me"/>
-<h3 align="center" >Contact Me:</h3>
+</p>
+
+<h3 align="center" >𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/tomasbohnguixeras/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" height="40" width="40" /></a>
 <a href="https://walink.co/b9cc01" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/whatsapp_tile_logo_icon_169898.png" height="40" width="40" /></a>
 <a href="https://twitter.com/TomasBohn1" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitter_tile_logo_icon_167744.png" height="40" width="40" /></a>

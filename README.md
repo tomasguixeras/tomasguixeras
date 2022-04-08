@@ -1,5 +1,5 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tomás Bohn Guixeras</h1>
 
 <!--
 **TomasBohnGs/TomasBohnGs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

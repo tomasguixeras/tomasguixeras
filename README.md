@@ -29,7 +29,7 @@
   <a href="https://walink.co/b9cc01" target="_blank" >
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://twitter.com/TomasBohn1" target="_blank" >
+  <a href="https://twitter.com/tomasguixeras" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://tomasbohngs.vercel.app/" target="_blank" >

@@ -15,7 +15,7 @@
 
  <p>🌱 I’m currently learning Flutter</p>
 
- <p>👨‍💻 All of my projects are available at <a href="tomasbohngs.vercel.app">tomasbohngs.vercel.app</a></p>
+ <p>👨‍💻 All of my projects are available at <a href="tomasguixeras.com">tomasguixeras.com</a></p>
 
  <p>📫 How to reach me</p>
 </div>
@@ -32,7 +32,7 @@
   <a href="https://twitter.com/tomasguixeras" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://tomasbohngs.vercel.app/" target="_blank" >
+    <a href="https://tomasguixeras.com" target="_blank" >
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

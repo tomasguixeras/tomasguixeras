@@ -15,7 +15,7 @@
 
  <p>🌱 I’m currently learning Flutter</p>
 
- <p>👨‍💻 All of my projects are available at <a href="tomasguixeras.com">tomasguixeras.com</a></p>
+ <p>👨‍💻 All of my projects are available at <a href="https://tomasguixeras.com">tomasguixeras.com</a></p>
 
  <p>📫 How to reach me</p>
 </div>
